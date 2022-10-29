@@ -1,0 +1,1 @@
+# fx-rate_history_of_USD_JPY_against_KRW_since_2003-12-01
